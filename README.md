@@ -1,1 +1,2 @@
 # typescriptbasic
+enums generics 
